@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756766710987",
+    "firebase_url": "https://pollapp-20779.firebaseio.com",
+    "project_id": "pollapp-20779",
+    "storage_bucket": "pollapp-20779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756766710987:android:4673e5c9b0ca3220454f4e",
+        "android_client_info": {
+          "package_name": "com.fake_era.pollapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756766710987-m7m9a5n0tjuth5o6gifa595u6nf1q706.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fake_era.pollapp",
+            "certificate_hash": "3bcddbe45c6909761a5c1074c14c6bd5fab21a43"
+          }
+        },
+        {
+          "client_id": "756766710987-j4em25h413i99r5h719bkokd3dtjh3vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoGlME5zweJWcxkXxYlHW0HPqyAakISVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756766710987-j4em25h413i99r5h719bkokd3dtjh3vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
